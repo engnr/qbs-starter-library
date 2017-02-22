@@ -1,0 +1,1 @@
+# qbs-starter-library
